@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: pangzengyao@gmail.com
 description: "日常的思考与杂谈，这里是逄增瑶的博客，与你分享"
 keyword: "逄增瑶, dadaosi, C语言,博客,个人网站, 互联网,极客"
-url: "https://127.0.0.1"              # your host, for absolute URL
+url: "https://pangzengyao.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 timezone: Asia/Shanghai
 
