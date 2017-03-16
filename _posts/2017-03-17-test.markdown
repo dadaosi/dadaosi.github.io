@@ -1,0 +1,49 @@
+---
+layout:     post
+title:      "测试测试"
+subtitle:   "写一些东西在这里，abcd ef ghi jk!"
+date:       2017-03-17 01:09:00
+author:     "pang"
+header-img: "img/home-bg-art.jpg"
+header-mask: 0.3
+catalog:    true
+tags:
+    - 测试
+    - test
+    - markdown
+---
+
+
+
+![](/img/posts/hello_world.jpg)
+## 初试markdown
+真高兴能开始用markdown写东西了
+>* 阿斯蒂芬
+* 房间看是
+* 冯绍峰的
+
+### 表格测试
+
+|表格|另一列|
+|----|----|
+|内容|内容|
+|内容|内容|
+|内容|内容|
+
+### 代码测试
+```sh
+echo 'hello world!'
+```
+```c
+printf("hello world!");
+```
+```python
+def test():
+    print('hello world')
+```
+
+## 结语
+
+这些内容很快会被删除，[看到](http://pangzengyao.com)的各位，谢谢关注。
+
+>结束**啦**， 拜拜。`yoyo`
