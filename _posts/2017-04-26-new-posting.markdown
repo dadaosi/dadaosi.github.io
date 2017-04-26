@@ -8,9 +8,6 @@ header-img: "img/home-bg-art.jpg"
 header-mask: 0.3
 catalog:    true
 tags:
-    - 测试
-    - test
-    - markdown
 ---
 
 ## 新的文章
